@@ -1,4 +1,4 @@
-# House-prediciton
+# House-price-prediciton
 
 ## Overview
 This code uses several machine learning techniques to predict the change in median home prices in the United States based on several economic indicators. The indicators used in the analysis include the 30-year mortgage rate, the rental vacancy rate, and the Consumer Price Index. Additionally, the data is analyzed by using the Zillow Home Value Index (ZHVI) and the median sale price of homes.
